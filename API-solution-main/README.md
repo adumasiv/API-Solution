@@ -1,5 +1,5 @@
 
-# Paylocity API Solution
+# API Solution
 
 This is a simple command-line application and API built with Flask that allows you to interact with a collection of data objects. It supports GET and POST requests to retrieve and add data. 
 
@@ -19,11 +19,11 @@ Make sure you have the following installed:
 
 Clone the repository:
 
-  git clone https://github.com/yourusername/paylocity-api-solution.git
+  git clone https://github.com/adumasiv/API-Solution.git
 
 Switch to the directory
 
-  cd paylocity-api-solution
+  cd API-solution-main
 
 Run the Flask API:
 
